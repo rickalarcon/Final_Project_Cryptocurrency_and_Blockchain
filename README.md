@@ -1,4 +1,4 @@
-# Project
+# DATA SCIENCE/ANALYTICS/INVESTMENTS RESEARCH 
 # Authors: Rick J. Alarcon and Adam Atamian
 - The report is begins with an introduction and then it is separated into three parts.
 - The entire report is contained in one Jupyter Notebook.
